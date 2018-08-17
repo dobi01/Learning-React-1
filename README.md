@@ -1,3 +1,5 @@
-# task-14.5
+# Learning-React-1
 
-React components and styling exercise
+Kodilla web developer bootcamp
+
+Task 14.5 - building React components without JSX
